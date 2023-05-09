@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./nova-transferencia.component.scss'], 
 })
 export class NovaTransferenciaComponent {
-  valor: number; //propriedade valor
+  valor: number; 
   destino: number;
 
   transferir() {
